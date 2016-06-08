@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:07:42.200512
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:33
 #+TITLE: 翻梵語
 #+PROPERTY: CBETA_ID T54n2130
 #+PROPERTY: ID KR6s0018
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 54, No. 2130
 #+PROPERTY: VOL 54
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0018_T_004-1007b> 
 #+PROPERTY: JUAN 4
 ¶
-
- 翻梵語卷第四¶
+翻梵語卷第四¶
 ¶
 
   
   * 婆羅門名第十九¶
   * 剎利名第二十¶
 
-19婆羅門名
-:PROPERTIES:
-:head: 婆羅門名第十九
-:END:
-¶
+* 婆羅門名第十九¶
 
   
   * 婆羅門(善見律曰淨行又婆羅者智門者聞也譯曰心出俗外)¶　大智論第一卷¶
@@ -108,17 +103,13 @@
   * 豆婆遮種姓婆羅門(譯曰豆婆遮者惡語)¶　豆遮婆羅門論議經¶
   * 闍提疏婆羅門(應云闍提輸盧耶　譯曰生聞)　名穪經
 <pb:KR6s0018_T_004-1008c>¶
-  * 鷄頭婆羅門(譯曰幢幢)　梵天詣婆羅門講堂經¶
+  * 鷄頭婆羅門(譯曰幢憧)　梵天詣婆羅門講堂經¶
   * 欝多羅婆羅門子(譯曰勝也)¶　為憍慢婆羅門說偈經¶
   * 婆羅豆婆舍遮婆羅門(譯曰婆羅者勝豆婆舍者惡語)　雜經¶
   * 阿叔羅婆羅門(譯曰不勇)　成實論第一卷¶
   * 邏闍桑彌婆羅門(應云羅闍桑彌多　譯曰王所重也)¶　歷國傳第二卷¶
 
-20剎利名
-:PROPERTIES:
-:head: 剎利名第二十
-:END:
-¶
+* 剎利名第二十¶
 
   
   * 剎利(亦云剎帝利　譯曰田主亦云田護)　大智論第四卷¶

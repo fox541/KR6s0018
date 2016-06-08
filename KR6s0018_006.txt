@@ -1,29 +1,24 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:07:42.252572
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:33
 #+TITLE: 翻梵語
 #+PROPERTY: CBETA_ID T54n2130
 #+PROPERTY: ID KR6s0018
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 54, No. 2130
 #+PROPERTY: VOL 54
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6s0018_T_006-1018c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS master
+#+PROPERTY: LASTPB <pb:KR6s0018_T_006-1018c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 翻梵語卷第六¶
+翻梵語卷第六¶
 ¶
 
   
   * 雜人名第三十¶
   * 雜姓名第三十一¶
 
-30雜人名
-:PROPERTIES:
-:head: 雜人名第三十
-:END:
-
+* 雜人名第三十
 <pb:KR6s0018_T_006-1019a>¶
 
   
@@ -152,7 +147,7 @@
   * 波羅窂(應云波羅盧歌　譯曰彼世)　第四卷
 <pb:KR6s0018_T_006-1020c>¶
   * 郁加(譯曰威德)　第九卷¶
-  * 洗尼頻鞞娑羅(譯曰洗尼者軍頻鞞者謨娑羅者力)　第十一卷¶
+  * 洗尼頻鞞波羅(譯曰洗尼者軍頻鞞者謨波羅者力)　第十一卷¶
   * 尼彌(譯曰輪也)　第十四卷¶
   * 蜱肆(譯曰遣使)　第十六卷¶
   * 遮羅(譯曰動也)　第二十一卷¶
@@ -637,11 +632,7 @@
   * 迷伽拔摩(譯曰雲鎧)¶
   * 比奢(譯曰入也)¶
 
-31雜姓名
-:PROPERTIES:
-:head: 雜姓名第三十一
-:END:
-¶
+* 雜姓名第三十一¶
 
   
   * 婆蹉姓(譯曰櫝也)　十誦三誦第三卷
